@@ -1,0 +1,42 @@
+button {
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.15) !important;
+    display: inline-block !important;
+    margin-right: 10px !important;
+}
+
+/* Button Assignment Styling  */
+.socBtn {
+    background-color: #2d3e5b !important;
+}
+
+.fa-brands {
+    font-size: 12px;
+}
+
+.socBtnIcon i {
+    color: #2d3e5b;
+}
+
+.txt {
+    color: #2d3e5b !important;
+}
+
+.fbkBorder {
+    border: 1px solid #2d3e5b !important;
+}
+
+/* Alert #01 Assignment Styling  */
+.btn-close {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+/* Alert #03 Assignment Styling  */
+.btnInfo svg {
+    transform: rotateY(180deg);
+}
+
+.smFont {
+    font-size: 8px !important;
+    padding: 5px 20px !important;
+}
