@@ -4,7 +4,7 @@ button {
     margin-right: 10px !important;
 }
 
-/* Button Assignment Styling  */
+/* Button Assignment Styling Starts  */
 .socBtn {
     background-color: #2d3e5b !important;
 }
@@ -24,14 +24,18 @@ button {
 .fbkBorder {
     border: 1px solid #2d3e5b !important;
 }
+/* Button Assignment Styling Ends  */
 
-/* Alert #01 Assignment Styling  */
+
+/* Alert #01 Assignment Styling Start  */
 .btn-close {
     display: inline-block;
     margin-top: 20px;
 }
+/* Alert #01 Assignmrnt Styling Ends  */
 
-/* Alert #03 Assignment Styling  */
+
+/* Alert #03 Assignment Styling Starts  */
 .btnInfo svg {
     transform: rotateY(180deg);
 }
@@ -40,3 +44,19 @@ button {
     font-size: 8px !important;
     padding: 5px 20px !important;
 }
+/* Alert #03 Assignment Styling Ends  */
+
+/* Color Assignment #01 Styling Start  */
+.colorAss {
+    margin-top: 50px;
+}
+
+.colorAss div {
+    margin-top:  -4px !important;
+    height: 50px;
+}
+
+.colorAss div p {
+    visibility: hidden;
+}
+/* Color Assignment Styling Ends  */
